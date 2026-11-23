@@ -2,8 +2,6 @@
 
 <p align="center">
   <img width="1024" height="468" alt="preview" src="https://github.com/user-attachments/assets/0f6849af-d8f4-4370-8865-dca4f929bef9" />
-
-  <img src="./campus-knowledge-assistant.png" alt="Campus Knowledge Assistant UI" width="900" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
 </p>
 
 <p align="center">
