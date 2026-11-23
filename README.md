@@ -216,17 +216,3 @@ python run_benchmark.py
 - **Data Privacy:** Uses local sentence transformers for embedding generation, meaning document text embeddings are computed locally on your machine.
 - **Auditable Citations:** Every factual response provides the exact source filename, page number, and similarity score so students can independently verify rules before taking academic decisions.
 
----
-
-## 👨‍💻 Author
-
-**Parth Solanki**  
-*BCA (Hons) | AI & Machine Learning | Generative AI & RAG Developer*  
-- **GitHub:** [@iparthsolanki](https://github.com/iparthsolanki)  
-- **Repository:** [Campus_knowledge_Ai](https://github.com/iparthsolanki/Gen_Ai/tree/main/Campus_knowledge_Ai)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE) — free to use for learning, evaluation, and educational demonstrations.
