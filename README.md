@@ -229,9 +229,3 @@ python run_benchmark.py
 - **Zero Credential Leakage:** Sensitive keys are restricted to `.env`, which is strictly excluded via `.gitignore`.
 - **Local Embeddings:** Text vectorization occurs entirely on local hardware; document contents are never transmitted to third-party embedding APIs.
 - **Traceable Responses:** Transparent citation of document names and page numbers allows students and faculty to independently verify policy statements.
-
----
-
-## 📜 9. License
-
-This project is licensed under the [MIT License](LICENSE) — free to use for educational, evaluation, and research purposes.
